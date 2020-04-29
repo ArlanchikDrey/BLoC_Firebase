@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77503869515",
+    "firebase_url": "https://bloc-1141a.firebaseio.com",
+    "project_id": "bloc-1141a",
+    "storage_bucket": "bloc-1141a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77503869515:android:cca24e5dfc72b5d1d893ce",
+        "android_client_info": {
+          "package_name": "com.exame.blocfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77503869515-5am6uflehi2lvj07pphhpmv6gjol4mln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr8zMTeopKn-NoAuaSMQ1zBgQJSmp3Rpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77503869515-5am6uflehi2lvj07pphhpmv6gjol4mln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
