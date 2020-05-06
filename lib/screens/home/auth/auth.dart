@@ -1,4 +1,4 @@
-import 'package:blocfirebase/screens/auth/sign_in.dart';
+import 'package:blocfirebase/screens/home/auth/sign_in.dart';
 import 'package:flutter/material.dart';
 
 class Auth extends StatefulWidget {

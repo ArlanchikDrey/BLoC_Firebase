@@ -1,4 +1,4 @@
-import 'package:blocfirebase/screens/auth/auth.dart';
+import 'package:blocfirebase/screens/home/auth/auth.dart';
 import 'package:flutter/material.dart';
 
 class Wrapper extends StatelessWidget{

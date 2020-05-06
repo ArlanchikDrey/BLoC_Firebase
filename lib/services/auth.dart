@@ -22,4 +22,11 @@ class AuthService {
   // register with email & password
 
   // sign out
+  void signOut() async{
+    try{
+      await _auth.signOut();
+    }catch(e){
+      print(e.toString());
+    }
+  }
 }
